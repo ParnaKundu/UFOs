@@ -12,7 +12,8 @@ A user is given the oppurtunity to filter data based on Date, City, State, Count
 
 Here is an example :-
 
-*   When the webpage is loaded for the first time, all the UFO data is loaded and displayed in a table format as [UFO Sightings](https://github.com/ParnaKundu/UFOs/blob/main/static/images/UFO_sightings_1.png).
+*   When the webpage is loaded for the first time, all the UFO data is loaded and displayed in a table format as below :- 
+![UFO Sightings](static/images/UFO_sightings_1.png).
 
 *   Now the user has the ability to refine their search by selecting any of the filter criteria. Using the "Date" field of 1/4/2010, the table is considerably reduced as it displays only the sightings on 1/4/2010 as seen [here](https://github.com/ParnaKundu/UFOs/blob/main/static/images/UFO_sightings_2.png).
 
